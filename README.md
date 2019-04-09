@@ -16,3 +16,8 @@ Now, an excel spreadsheet is generated using the jxl library and all collected d
 
 
 You will need a CTG Log-in and the ability to execute 'Main.java', which entails having the necessary jars (Selenium, Jsoup, jxl). An excel spreadsheet with every teams season-long performance metrics at home, on the road, during the last two weeks, and the night's game lines is generated.
+
+Download Links:
+  - ChromeDriver (Selenium): http://chromedriver.chromium.org/downloads
+  - Jsoup: https://jsoup.org/download
+  - JXL: https://sourceforge.net/projects/jexcelapi/files/jexcelapi/
